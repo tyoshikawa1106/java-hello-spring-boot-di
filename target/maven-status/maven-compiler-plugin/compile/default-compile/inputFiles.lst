@@ -1,4 +1,6 @@
 /Users/tyoshikawa1106/pg/java-spring-boot/workspaece_hello_spring_di/hello_spring_di/src/main/java/com/example/app/AddCalculator.java
 /Users/tyoshikawa1106/pg/java-spring-boot/workspaece_hello_spring_di/hello_spring_di/src/main/java/com/example/app/Calculator.java
-/Users/tyoshikawa1106/pg/java-spring-boot/workspaece_hello_spring_di/hello_spring_di/src/main/java/com/example/AppConfig.java
+/Users/tyoshikawa1106/pg/java-spring-boot/workspaece_hello_spring_di/hello_spring_di/src/main/java/com/example/app/ScannerArgumentResolver.java
+/Users/tyoshikawa1106/pg/java-spring-boot/workspaece_hello_spring_di/hello_spring_di/src/main/java/com/example/app/ArgumentResolver.java
+/Users/tyoshikawa1106/pg/java-spring-boot/workspaece_hello_spring_di/hello_spring_di/src/main/java/com/example/app/Argument.java
 /Users/tyoshikawa1106/pg/java-spring-boot/workspaece_hello_spring_di/hello_spring_di/src/main/java/com/example/App.java
